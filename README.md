@@ -1,5 +1,5 @@
 # AZRAEL
-This is a brand new discord token grabber and ip grabber made for those who cant code
+This is a brand new info-stealer using discord API to send infomation
 
 ## Table of Contents
 
