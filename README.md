@@ -1,5 +1,5 @@
 # AZRAEL
-This is a brand new info-stealer using discord API to send infomation
+This is a brand new info-stealer and snap-hack tool using discord API to send infomation
 
 ## Table of Contents
 
