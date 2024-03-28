@@ -98,3 +98,5 @@ If you find this project useful and would like to show your support, you can mak
 
 - **PayPal:**
   - paypal.me/mrbrit12
+ 
+  - I am not at fault or liable for any damages caused by this software
